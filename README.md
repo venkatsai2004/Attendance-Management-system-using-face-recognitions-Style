@@ -26,8 +26,6 @@
 ### Simple UI
 <img src='https://github.com/Patelrahul4884/Attendance-Management-system-using-face-recognition/blob/master/Project%20Snap/1.PNG'>
 
-### While taking Image
-![Screenshot (103)](https://hackster.imgix.net/uploads/attachments/1032025/_IShyIG6IxS.blob?auto=compress%2Cformat&w=900&h=675&fit=min)
 
 ## While taking Attendance
 ![Screenshot (91)](https://user-images.githubusercontent.com/37211676/58502148-97ec2a00-81a3-11e9-963e-674b9c3e05dc.png)
